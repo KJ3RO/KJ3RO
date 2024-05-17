@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm doyeon 👋
 
-<!--
-**KJ3RO/KJ3RO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ts
+const interests = ["custom keyboards", "ricing", "tennis", "cognitive science", "graph modeling"];
 
-Here are some ideas to get you started:
+const introduction = () => {
+  Console.log("I am interested in:")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  interests.foreach((interest) => {
+    Console.log(`- $(interest)`);
+  })
+}
+```
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ3RO&theme=nord&show_icons=true&hide_border=true" height="200" /><img src="https://github-readme-stats.vercel.app/api?username=KJ3RO&show_icons=true&hide=contribs&theme=nord&hide_border=true&text_bold=false" height="200" />
