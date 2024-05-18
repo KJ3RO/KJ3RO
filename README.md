@@ -11,5 +11,6 @@ const introduction = () => {
   })
 }
 ```
+Sadly, there are no Kanagawa themed github stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ3RO&theme=nord&show_icons=true&hide_border=true" height="200" /><img src="https://github-readme-stats.vercel.app/api?username=KJ3RO&show_icons=true&hide=contribs&theme=nord&hide_border=true&text_bold=false" height="200" />
