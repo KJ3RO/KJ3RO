@@ -1,16 +1,11 @@
-### Hi there, I'm doyeon 👋
+### Hi!
 
-```ts
-const interests = ["custom keyboards", "ricing", "tennis", "cognitive science", "graph modeling"];
+I'm working on Nix and Neovim
 
-const introduction = () => {
-  Console.log("I am interested in:")
+### some of my favorite tools
 
-  interests.foreach((interest) => {
-    Console.log(`- $(interest)`);
-  })
-}
-```
-Sadly, there are no Kanagawa themed github stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ3RO&theme=nord&show_icons=true&hide_border=true" height="200" /><img src="https://github-readme-stats.vercel.app/api?username=KJ3RO&show_icons=true&hide=contribs&theme=nord&hide_border=true&text_bold=false" height="200" />
+![git](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/git_vector.svg)
+![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg)
+![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/built-with/markdown_vector.svg)
+![nix](https://raw.githubusercontent.com/sakecode/nix-figma-svgs/main/Cozy_Minimal_Nix_Figma.svg)
+![typescript](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy-minimal/built-with/typescript_vector.svg)
